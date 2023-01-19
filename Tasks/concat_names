@@ -1,0 +1,5 @@
+name = input()
+third_name = input()
+signs = input()
+
+print(f"{name}{signs}{third_name}", end='')
